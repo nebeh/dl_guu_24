@@ -1,1 +1,1 @@
-# dl_guu_24
+# Введение в Deep Learning
